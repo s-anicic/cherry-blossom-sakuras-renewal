@@ -35,3 +35,6 @@ def intro_scene():
 # Main
 def main():
     intro_scene()
+
+if __name__ == "__main__":
+    main()
