@@ -99,6 +99,7 @@ Contributions are currently closed with plans to open in the future.
 
 ## 📜 License
 
-© 2025 Sara Anicic. All rights reserved.  
-You are free to download and run this game for personal use.  
+© 2025 Sara Anicic. All rights reserved.<br>
+You are free to download and run this game for personal use.<br>
 Do not copy, modify, or redistribute the code without permission.
+
