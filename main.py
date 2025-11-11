@@ -1,6 +1,6 @@
 # Game title: Cherry Blossom: Sakura’s Renewal
 
-# import time
+import time
 
 # Functions
 
